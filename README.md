@@ -1,1 +1,2 @@
 # odin-recipes
+In this project, I am building a basic recipe website. By the end of my project, I'll have demonstrated the basic skills of the HTML that I have so far acquired this far in my course. The recipes were referenced from www.https://allrecipes.com
